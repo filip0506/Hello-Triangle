@@ -1,7 +1,7 @@
 # Hello Triangle
 Assignment — Hello Triangle
 
-A university 3D programming assignment, focused on rendering a textured 3D quad implemented using Direct3D 11 and C++ .
+A university 3D programming assignment from 2020, focused on rendering a textured 3D quad implemented using Direct3D 11 and C++.
 Overview
 
 The goal of this project is to develop a simple 3D application in C++ using Direct3D 11 (D3D11). The application renders a quad constructed from two triangles, applies a texture, and animates the quad by rotating it around the Y-axis with an offset from the origin.
